@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TODOBOOM</string>
+    <string name="create_button">CREATE</string>
+    <string name="edit_todo">ENTER YOUR TODO ITEM</string>
+</resources>
